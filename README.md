@@ -3,6 +3,7 @@ ___Patients Analyzing Dashboard___
 Overview
 
 This Power BI dashboard provides in-depth analysis and visualization of patient data, where incoming, statying and tempeorary pateints are analyzing outcomes.
+![abc](https://github.com/user-attachments/assets/c5e2d9f2-0845-4a68-a4be-a5bb630c3639)
 
 Features
 
@@ -17,6 +18,8 @@ Data Insights
 - Identify high-risk patient groups and trends.
 - Optimize treatment plans and resource allocation.
 - Enhance patient care and outcomes.
+
+- 
 
 Technical Details
 
